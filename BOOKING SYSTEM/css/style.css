@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Sofia&display=swap');
+
+body
+{
+    background: linear-gradient(180deg,#8e0603d4,#000000f7),url("../img/bg.jpeg");    
+    background-attachment: fixed;
+    background-size: 1200px;
+    background-position: center;
+    font-family: 'Kaushan Script',cursive;
+    overflow: hidden;
+}
